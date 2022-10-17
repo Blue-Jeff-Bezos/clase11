@@ -36,7 +36,7 @@ LÍNEA DE TIEMPO
 - 11 de diciembre de 2021. Blue Origin lanza al espacio a Michael Strahan, ex estrella de fútbol y presentador de Good Morning America , junto con Laura Shepard, hija del astronauta Alan Shepard, y otros cuatro pasajeros.
 
 
-**Blue Origin vs. SpaceX**
+BlUE ORIGIN VS SPACEX
 
 Desde que se formó, SpaceX ha lanzado 134 misiones con 132 éxitos, un éxito parcial y una falla en vuelo, mientras que Blue Origin ha lanzado 19 misiones New Shepard, con una sola falla parcial cuando el cohete propulsor se estrelló pero la cápsula de pasajeros aterrizó sin peligro.
 
