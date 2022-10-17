@@ -10,11 +10,11 @@ El lema de Blue Origin, “gradatim ferociter” o “paso a paso, ferozmente”
 
 LÍNEA DE TIEMPO
 
-- 2000. Bezos incorpora Blue Origin.
-- 2003. El ingeniero aeroespacial Rob Meyerson se une a la empresa como gerente de programas y luego se convierte en presidente, cargo que ocupa hasta 2018.
-- 2005. El programa New Shepard de Blue Origin, que lleva el nombre de Alan Shepard, el primer estadounidense en volar al espacio en 1961, tiene como objetivo desarrollar un vehículo suborbital tripulado para el turismo y la investigación científica.
+- 2000 Bezos incorpora Blue Origin.
+- 2003 El ingeniero aeroespacial Rob Meyerson se une a la empresa como gerente de programas y luego se convierte en presidente, cargo que ocupa hasta 2018.
+- 2005 El programa New Shepard de Blue Origin, que lleva el nombre de Alan Shepard, el primer estadounidense en volar al espacio en 1961, tiene como objetivo desarrollar un vehículo suborbital tripulado para el turismo y la investigación científica.
 - 13 de noviembre de 2006. Ocurre el primer vuelo de Goddard, un cohete de desarrollo creado por Blue Origin para el programa New Shepard. Nombrado en honor al físico Robert Goddard, un pionero estadounidense de cohetes, Goddard se retiró desde entonces.
-- 2008-2010. Blue Origin continúa trabajando en New Shepard, su nave espacial de despegue y aterrizaje vertical.
+- 2008-2010 Blue Origin continúa trabajando en New Shepard, su nave espacial de despegue y aterrizaje vertical.
 - Abril de 2011. La Administración Nacional de Aeronáutica y del Espacio otorga a Blue Origin $22 millones como parte de su Programa de Tripulación Comercial (CCP), un proyecto en virtud del cual la NASA trabaja con socios comerciales para construir cohetes y naves espaciales.
 - 24 de agosto de 2011. Bezos confirma la destrucción en vuelo de un cohete de prueba New Shepard, el propulsor suborbital de Blue Origin. La compañía dijo que la nave espacial llegó a Mach 1,2 y 45.029 pies antes de explotar.
 - 20 de octubre de 2012. Como parte de su trabajo con el CCP de la NASA, Blue Origin lanza con éxito una cápsula suborbital New Shepard como parte de una prueba de su sistema de escape de cohetes. La cápsula alcanza una altura de 700 metros y luego desciende en paracaídas.
