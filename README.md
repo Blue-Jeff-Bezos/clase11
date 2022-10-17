@@ -39,3 +39,11 @@ LÍNEA DE TIEMPO
 **Blue Origin vs. SpaceX**
 
 Desde que se formó, SpaceX ha lanzado 134 misiones con 132 éxitos, un éxito parcial y una falla en vuelo, mientras que Blue Origin ha lanzado 19 misiones New Shepard, con una sola falla parcial cuando el cohete propulsor se estrelló pero la cápsula de pasajeros aterrizó sin peligro.
+
+QUÉ VIENE PARA EL FUTURO
+
+La idea de reutilizar partes de cohetes para abaratar las misiones espaciales está dejando poco a poco de parecer el sueño de los ambiciosos empresarios Jeff Bezos (fundador de Blue Origin) y Elon Musk (Space X). A lo largo de los últimos meses, sus empresas han conseguido logros significativos que sugieren que quizás están en lo cierto cuando aseguran que pronto será posible volver a utilizar componentes de lanzadores para abaratar las caras misiones espaciales y emprender objetivos más ambiciosos. De momento, las dos compañías ya han completado con éxito pruebas para recuperar partes de cohetes al lograr que aterrizaran de nuevo de forma controlada.
+
+Pese al indudable avance que supone esta nueva prueba, aún queda mucho camino por recorrer antes de reutilizar cohetes en misiones reales. Por ejemplo, los cohetes de Blue Origin no tienen la potencia suficiente ni alcanzan la velocidad necesaria para permanecer en órbita, aunque la compañía trabaja en una nueva familia de lanzadores más avanzados.
+
+"Nuestro objetivo es que millones de personas vivan y trabajen en el espacio", asegura Blue Origin. Pero para conseguirlo, argumenta, "no se pueden tirar los componentes", como han hecho las agencias durante toda la historia espacial.
